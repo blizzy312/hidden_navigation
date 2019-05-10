@@ -1,4 +1,4 @@
-# Clocks
+# Hidden navigation
 This repository contains source code for hidden navigation with simple animation.
 
 
@@ -13,7 +13,7 @@ or by downloading repository as zip file and exctact it to your desired location
 ## Application Screenshots
 <table >
   <tr>
-    <td align="left"><img src="../assets/hidden_nav.gif"  width="250" height="500"/></td>
-    <td align="center"><img src="../assets/hidden_nav_origin.gif"  width="550" height="500"/></td>
+    <td align="left"><img src="/hidden_nav.gif"  width="250" height="500"/></td>
+    <td align="center"><img src="/hidden_nav_origin.gif"  width="550" height="500"/></td>
   </tr>
 </table>
