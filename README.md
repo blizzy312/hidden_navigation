@@ -6,7 +6,7 @@ This repository contains source code for hidden navigation with simple animation
 Download this repository into your desired location (for example Desktop) using [git](https://git-scm.com/):
 ```
 cd C:\Users\Username\Desktop
-git clone https://github.com/blizzy312/Clocks.git
+git clone https://github.com/blizzy312/hidden_navigation.git
 ```
 or by downloading repository as zip file and exctact it to your desired location.
 
