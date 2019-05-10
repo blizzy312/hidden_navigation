@@ -15,7 +15,7 @@ or by downloading repository as zip file and exctact it to your desired location
   <thead>
         <tr>
             <th>My application</th>
-            <th>[Original design](https://dribbble.com/shots/2729372-Paleo-Paddock-ios-application-menu-animation)</th>
+            <th>Original design</th>
         </tr>
   </thead>
   <tbody>
