@@ -1,5 +1,5 @@
 # Hidden navigation
-This repository contains source code for hidden navigation with simple animation. This application is inspired by [Fluttery](https://www.youtube.com/watch?v=6CEjnCVdgRM), but I decided to make similar one with a Bloc state manager, that I persanally believe is easier to implement, at least in this case.
+This repository contains source code for hidden navigation with simple animation. This application is inspired by [Fluttery](https://www.youtube.com/watch?v=6CEjnCVdgRM), but I decided to make similar one with a [Bloc](https://pub.dev/packages/bloc) state manager, that I personally believe is easier to implement, at least in this case.
 
 
 ## Installation
