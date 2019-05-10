@@ -14,6 +14,6 @@ or by downloading repository as zip file and exctact it to your desired location
 <table >
   <tr>
     <td align="left"><img src="/hidden_nav.gif"  width="250" height="500"/></td>
-    <td align="center"><img src="/hidden_nav_origin.gif"  width="550" height="500"/></td>
+    <td align="center"><img src="/hidden_nav_origin.gif"  width="650" height="500"/></td>
   </tr>
 </table>
