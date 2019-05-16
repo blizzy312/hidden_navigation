@@ -26,3 +26,6 @@ or by downloading repository as zip file and exctact it to your desired location
   </tbody>
   
 </table>
+
+## License
+License is MIT, see [LICENSE](LICENSE)
